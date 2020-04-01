@@ -29,6 +29,9 @@
 ![AltText](https://github.com/tembang38/modul-3-4/blob/master/modul%204%20proses-pinjam.JPG)
 ![AltText](https://github.com/tembang38/modul-3-4/blob/master/proses-pinjam.php)
 
+# Data Pinjam
+![AltText](https://github.com/tembang38/modul-3-4/blob/master/Data%20Peminjamsn%20transaksi.JPG)
+
 ![AltText](https://github.com/tembang38/modul-3-4/blob/master/fungsi-transaksi.php)
 ![AltText](https://github.com/tembang38/modul-3-4/blob/master/index.php)
 ![AltText](https://github.com/tembang38/modul-3-4/blob/master/proses-kembali.php)
